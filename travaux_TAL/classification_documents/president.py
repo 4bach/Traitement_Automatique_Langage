@@ -72,8 +72,8 @@ def lissage_prediction(prediction):
 
 if __name__ == "__main__":
     
-    X,y = load_corpus("data/corpus.tache1.learn.utf8")
-    Xt,yt = load_corpus("data/corpus.tache1.test.utf8")
+    X,y = load_corpus("data/president/corpus.tache1.learn.utf8")
+    Xt,yt = load_corpus("data/president/corpus.tache1.test.utf8")
     (Xvec,XvecT,vect) = construction_dico(X,Xt)
     # données ultra basiques, à remplacer par vos corpus vectorisés
 
