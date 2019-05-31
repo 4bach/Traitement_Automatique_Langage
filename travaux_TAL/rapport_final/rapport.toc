@@ -1,2 +1,0 @@
-\babel@toc {french}{}
-\contentsline {section}{\numberline {1}TME 1 : POS Tagging et Analyse de phrases.}{3}
